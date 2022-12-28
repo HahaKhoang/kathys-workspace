@@ -1,3 +1,10 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "Day 4 - Coffee",
+        "Day 3 - Interest Rate",
+        "Day 2 - Calculator",
+        "Day 1 - Hello World",
+        "Day 5 - Chatbot"
+    ]
 }

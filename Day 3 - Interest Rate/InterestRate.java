@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class Interest {
+public class InterestRate {
+
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         // Ask the user for initial balance and annual interest rate
@@ -56,5 +57,6 @@ public class Interest {
      * True/False:
      * booleans (!)
      */
+
 
 }
